@@ -27,7 +27,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡Filmora Version 8.0.1](https://mega.nz/file/IM5k0R7Y#k8512lY6Tj6l9P0Op3x2gPsWqENiyvIGcKI36gXM5p0)
+## [⚡Filmora Version 8.0.1](https://1drv.ms/u/s!AkIjhtUmdMQ9bGqaxQWNvj4C4ks?e=Dn1cO3)
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
